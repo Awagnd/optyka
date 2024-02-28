@@ -1,20 +1,45 @@
-# optyka
+# Optyka
 
-## Description
-Welcome to our project! This is a Todo list App made in Python and the Django framework. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contributions!
+## Wstęp
+aplikacja została stworzona na potrzeby konkursu „Motorola Science Cup” przez drużynę if matinf==True: plaze=0. 
+Nasza aplikacja służy do przeprowadzania prostych symulacyj optycznych odwzorowując zachowania światła w prawdziwym życiu. 
 
-## Contributing
-We welcome any and all contributions! Here are some ways you can get started:
-1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
-2. Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
-3. Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!
-4. Documentation: If you see the need for some additional documentation, feel free to add some!
 
-## Instructions
-1. Fork this repository
-2. Clone the forked repository
-3. Add your contributions (code or documentation)
-4. Commit and push
-5. Wait for pull request to be merged
+## Do naszego projektu wykorzystaliśmy:
+- Prawo snalla
+- Prawo odbicia
+- Funkcje refrakcji szkła kwarcowego
+- Wzór dyspersji swiatla
+
+## Instrukcja:
+### Kolejno od lewej znajdują sję:
+Czerwony laser, białe światło, pryzmat, soczewka, lustro, śmietnik
+
+### Dodawanie obiektu do symulacji:
+W celu dodania obiektu należy wybrać jego ikonę dostosować parametry obiektu przy pomocy suwaków oraz guzików (kazdy obiekt ma indywidualne parametry więcej o tym później). Po dostosowaniu obiektu należy kliknąć na jego ikonę lewym przyciskiem myszy co podowuje podniesienie obiektu. Od tego momentu obiekt podąża za kursorem myszy. Jedyne co pozostało do zrobienia to ustawienie obiektu w pożądanym miejscu oraz dostosowanie nachylenia przy pomocy strzałek w górę oraz w dół (dotyczy zwierciadła oraz źródeł światła). Jako ostatni krok wystarczy kliknąć prawym przyciskiem myszy aby odstawić obiekt.
+
+
+### dostosowywanie obiektów:
+
+**Snopy światła**: czerwonego i białego posiadają po jednym suwaku który służy do regulacji ilości snopów światła (od 1 do 10)
+
+**Zwierciadło** posiada suwak służący do regulacji jego
+długości 
+
+**Pryzmat** ma 3 takie same suwaki jak soczewka nie licząc zmiany szerokości
+
+**Soczewka** posiada 4 suwaki - pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania
+
+***Zespół
+Jan świsłowski - kapitan zespołu
+Oleg ramanchyk
+Krystian Wieszniewski 
+Maks Szulc 
+Agata Richter
+
+
+
+
+
 
 
