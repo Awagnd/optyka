@@ -35,11 +35,11 @@ długości.
 
 ![title](Readme/ZW.PNG)
 
-**Pryzmat** ma takie same suwaki jak soczewka, nie licząc pierwszego suwaka od lewej zmienia długość boku pryzmatu.
+**Pryzmat** ma takie same suwaki jak soczewka, nie licząc pierwszego suwaka od lewej zmienia długość boku pryzmatu, można dostosowywać jego kolor przy pomocy kolorowego suwaka, aby zresetować ustawienia koloru wystarczy kliknąć przycisk "w" i na koniec, guzikiem z ikoną "plusa" "podnosimy" obiekt.
 
 ![title](Readme/Przechwytywanie.PNG)
 
-**Soczewka** posiada 4 suwaki - Pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można.
+**Soczewka** posiada 4 suwaki - Pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można mozna zmieniać długość promienia soczewki, natomiast strzałki w góre, dól lewo oraz prawo regulują wypukłość soczewki.
 
 ![title](Readme/Przechwytywanie6.PNG)
 
