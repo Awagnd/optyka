@@ -60,9 +60,9 @@ Agata Richter
 
 ## Licencja i prawa autorskie
 - Wszystkie grafiki wykonaliśmy sami
-- Czcionki pobarliśmy ze stron zezwalających na użytkowanie komercyjne ich czcionek za darmo
+- Czcionka została wykonana przez All Super Font i pobraliśmy ją ze strony fontspace
 
-### Część plików z naszego projektu wyświetla się jako niebezpieczne, ale gwarantujemy ze nie jest to żaden wirus, prosimy o zaufanie i przepraszamy za utrudnienia :).
+
 
 
 
