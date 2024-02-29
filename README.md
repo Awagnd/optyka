@@ -60,7 +60,7 @@ Agata Richter
 
 ## Licencja i prawa autorskie
 - Wszystkie grafiki wykonaliśmy sami
-- Czcionka została wykonana przez All Super Font i pobraliśmy ją ze strony fontspace
+- Czcionka została wykonana przez All Super Font oraz pobraliśmy ją ze strony fontspace. Czcionka ma status "Free for personal use & commercial use."
 
 
 
