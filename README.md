@@ -28,7 +28,10 @@ długości
 
 **Pryzmat** ma takie same suwaki jak soczewka lecz jego pierwszy suwak od lewej działa troszke inaczej niz w soczewki
 
-**Soczewka** posiada 4 suwaki - pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania
+**Soczewka** posiada 4 suwaki - pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można 
+
+### edycja pryzmatu i soczewki w czasie rzeczywistym
+postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%) oraz współczynnik załamania 
 
 ## Zespół
 Jan świsłowski - kapitan zespołu  
