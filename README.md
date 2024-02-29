@@ -59,10 +59,18 @@ Maks Szulc
 Agata Richter
 
 ## Licencja i prawa autorskie
-- wszystkie grafiki wykonaliśmy sami
-- czcionki pobarliśmy ze stron zezwalających na użytkowanie komercyjne ich czcionek za darmo
+- Wszystkie grafiki wykonaliśmy sami
+- Czcionki pobarliśmy ze stron zezwalających na użytkowanie komercyjne ich czcionek za darmo
 
-## część plików z naszego projektu wyświetla się jako niebezpieczne, ale gwarantujemy ze nie jest to żaden wirus, prosimy o zaufanie i przepraszamy za utrudnienia
+### Część plików z naszego projektu wyświetla się jako niebezpieczne, ale gwarantujemy ze nie jest to żaden wirus, prosimy o zaufanie i przepraszamy za utrudnienia :).
+
+
+
+
+
+
+
+
 
 
 
