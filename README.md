@@ -8,8 +8,8 @@ Nasza aplikacja służy do przeprowadzania prostych symulacyj optycznych odwzoro
 ## Do naszego projektu wykorzystaliśmy:
 - Prawo snalla
 - Prawo odbicia
-- Funkcje refrakcji szkła kwarcowego
-- Wzór dyspersji swiatla
+- Funkcje dyspresji szkła kwarcowego, fluorytu oraz soli kuchennej
+
 
 ## Instrukcja:
 ### Kolejno od lewej znajdują sję:
