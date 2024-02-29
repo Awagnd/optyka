@@ -2,7 +2,7 @@
 import math
 import pygame
 pygame.init()
-font2 = pygame.font.Font('GLARY TROPIC SMOOTH.ttf', 25)
+font2 = pygame.font.Font('SuperFunkyFreeFont.ttf', 25)
 def collidecircle(a,b,r):
     return (a[0]-b[0])**2+(a[1]-b[1])**2<=r**2
 def collidecircles(a,b,r,r2):
