@@ -48,7 +48,7 @@ Postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez
 
 ![title](Readme/Przechwytywanie5.PNG)
 
-### filmik na youtube prezentujący działanie programu
+### Filmik na youtube prezentujący działanie programu
 https://youtu.be/xnDc_m12VfE
 
 ## Zespół
