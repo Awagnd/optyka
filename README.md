@@ -22,29 +22,29 @@ W celu dodania obiektu należy wybrać jego ikonę dostosować, parametry obiekt
 
 
 ### Dostosowywanie obiektów:
-**Laser**: posiada jeden suwak który służy do regulacji ilości snopów światła (od 1 do 10)
+**Laser**: posiada jeden suwak który służy do regulacji ilości snopów światła (od 1 do 10).
 
 ![title](Readme/lazer.PNG)
 
-**Żródło światła**: posiada jeden suwak  który zmienia grubość snopu światła oraz kolorowy pasek który zmienia zakres fal światła
+**Żródło światła**: posiada jeden suwak  który zmienia grubość snopu światła oraz kolorowy pasek który zmienia zakres fal światła.
 
 ![title](Readme/ZS1.PNG)
 
 **Zwierciadło** posiada suwak służący do regulacji jego
-długości  
+długości.
 
 ![title](Readme/ZW.PNG)
 
-**Pryzmat** ma takie same suwaki jak soczewka lecz jego pierwszy suwak od lewej działa troszke inaczej niz w soczewki
+**Pryzmat** ma takie same suwaki jak soczewka, nie licząc pierwszego suwaka od lewej zmienia długość boku pryzmatu.
 
 ![title](Readme/Przechwytywanie.PNG)
 
-**Soczewka** posiada 4 suwaki - pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można 
+**Soczewka** posiada 4 suwaki - Pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można.
 
 ![title](Readme/Przechwytywanie6.PNG)
 
 ### Edycja pryzmatu i soczewki w czasie rzeczywistym
-postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%) oraz współczynnik załamania 
+Postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%) oraz współczynnik załamania.
 
 ![title](Readme/Przechwytywanie5.PNG)
 
@@ -53,7 +53,12 @@ Jan Świsłowski - kapitan zespołu
 Oleg Ramanchyk  
 Krystian Wieszniewski  
 Maks Szulc   
-Agata Richter  
+Agata Richter
+
+## Licencja i prawa autorskie
+- wszystkie grafiki wykonaliśmy sami
+- czcionki 
+
 
 
 
