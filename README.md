@@ -14,7 +14,7 @@ Nasza aplikacja służy do przeprowadzania prostych symulacyj optycznych odwzoro
 ## Instrukcja:
 ### Kolejno od lewej znajdują sję:
 Czerwony laser, białe światło, pryzmat, soczewka, lustro, śmietnik
-
+![title](optyka_projekt/prism.png)
 ### Dodawanie obiektu do symulacji:
 W celu dodania obiektu należy wybrać jego ikonę dostosować parametry obiektu przy pomocy suwaków oraz guzików (kazdy obiekt ma indywidualne parametry więcej o tym później). Po dostosowaniu obiektu należy kliknąć na jego ikonę lewym przyciskiem myszy co podowuje podniesienie obiektu. Od tego momentu obiekt podąża za kursorem myszy. Jedyne co pozostało do zrobienia to ustawienie obiektu w pożądanym miejscu oraz dostosowanie nachylenia przy pomocy strzałek w górę oraz w dół (dotyczy zwierciadła oraz źródeł światła). Jako ostatni krok wystarczy kliknąć prawym przyciskiem myszy aby odstawić obiekt.
 
