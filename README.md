@@ -24,7 +24,7 @@ W celu dodania obiektu należy wybrać jego ikonę dostosować parametry obiektu
 **Laser**: posiada jeden suwak który służy do regulacji ilości snopów światła (od 1 do 10)  
 ![title](Readme/lazer.PNG)
 **Żródło światła**: posiada jeden suwak  który zmienia grubość snopu światła oraz kolorowy pasek który zmienia zakres fal światła
-![title](Readme/ZS.PNG)
+![title](Readme/ZS1.PNG)
 **Zwierciadło** posiada suwak służący do regulacji jego
 długości  
 ![title](Readme/ZW.PNG)
