@@ -18,7 +18,7 @@ Czerwony laser, źródło światła, pryzmat, soczewka, lustro, śmietnik
 ![title](Readme/image.png)
 
 ### Dodawanie obiektu do symulacji:
-W celu dodania obiektu należy wybrać jego ikonę dostosować, parametry obiektu przy pomocy suwaków oraz guzików (kazdy obiekt ma indywidualne parametry więcej o tym później). Po dostosowaniu obiektu, należy kliknąć na jego ikonę lewym przyciskiem myszy, co podowuje podniesienie obiektu. Od tego momentu obiekt podąża za kursorem myszy. Jedyne co pozostało do zrobienia, to ustawienie obiektu w pożądanym miejscu oraz dostosowanie nachylenia przy pomocy strzałek w górę oraz w dół (dotyczy zwierciadła oraz źródeł światła). Jako ostatni krok wystarczy kliknąć prawym przyciskiem myszy aby odstawić obiekt.
+W celu dodania obiektu należy wybrać jego ikonę, dostosować parametry obiektu przy pomocy suwaków oraz guzików (kazdy obiekt ma indywidualne parametry więcej o tym później). Po dostosowaniu obiektu, należy kliknąć na jego ikonę lewym przyciskiem myszy, co podowuje podniesienie obiektu. Od tego momentu obiekt podąża za kursorem myszy. Jedyne co pozostało do zrobienia, to ustawienie obiektu w pożądanym miejscu oraz dostosowanie nachylenia przy pomocy strzałek w górę oraz w dół (dotyczy zwierciadła oraz źródeł światła). Jako ostatni krok wystarczy kliknąć prawym przyciskiem myszy aby odstawić obiekt.
 
 
 ### Dostosowywanie obiektów:
@@ -35,16 +35,16 @@ długości.
 
 ![title](Readme/ZW.PNG)
 
-**Pryzmat** ma takie same suwaki jak soczewka, nie licząc pierwszego suwaka od lewej zmienia długość boku pryzmatu, można dostosowywać jego kolor przy pomocy kolorowego suwaka, aby zresetować ustawienia koloru wystarczy kliknąć przycisk "w" i na koniec, guzikiem z ikoną "plusa" "podnosimy" obiekt.
+**Pryzmat** ma takie same suwaki jak soczewka, nie licząc pierwszego suwaka od lewej, który zmienia długość boku pryzmatu, można dostosowywać jego kolor przy pomocy kolorowego suwaka, wybrać materiał szarym przyciskiem po prawej, aby zresetować ustawienia koloru wystarczy kliknąć przycisk "w" i na koniec, guzikiem z ikoną "plusa" "podnieść" obiekt.
 
 ![title](Readme/Przechwytywanie.PNG)
 
-**Soczewka** posiada 4 suwaki - Pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można mozna zmieniać długość promienia soczewki, natomiast strzałki w góre, dól lewo oraz prawo regulują wypukłość soczewki.
+**Soczewka** posiada 4 suwaki - Pierwszy po lewej służy do regulacji szerokości soczewki, pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad (lub przyciskami z ikoną plusa i minusa obok suwaka) można mozna zmieniać długość promienia soczewki, strzałki w góre, dól lewo oraz prawo regulują wypukłość soczewki, natomiast klawisze f oraz p stwarzają półpłaskie soczewki, i na koniec klawisz "b" resetuje ustawienia koloru.
 
 ![title](Readme/Przechwytywanie6.PNG)
 
 ### Edycja pryzmatu i soczewki w czasie rzeczywistym
-Postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%) oraz współczynnik załamania.
+Postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%), współczynnik załamania (1-3), materiał, oraz kolor.
 
 ![title](Readme/Przechwytywanie5.PNG)
 
@@ -57,7 +57,7 @@ Agata Richter
 
 ## Licencja i prawa autorskie
 - wszystkie grafiki wykonaliśmy sami
-- czcionki 
+- czcionki pobarliśmy ze stron zezwalających na użytkowanie komercyjne ich czcionek za darmo
 
 
 
