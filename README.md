@@ -22,9 +22,12 @@ W celu dodania obiektu należy wybrać jego ikonę dostosować parametry obiektu
 ### Dostosowywanie obiektów:
 
 **Laser**: posiada jeden suwak który służy do regulacji ilości snopów światła (od 1 do 10)  
+![title](Readme/lazer.PNG)
 **Żródło światła**: posiada  
+![title](Readme/ZS.PNG)
 **Zwierciadło** posiada suwak służący do regulacji jego
-długości 
+długości  
+![title](Readme/ZW.PNG)
 
 **Pryzmat** ma takie same suwaki jak soczewka lecz jego pierwszy suwak od lewej działa troszke inaczej niz w soczewki
 ![title](Readme/Przechwytywanie.PNG)
