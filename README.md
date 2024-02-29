@@ -1,7 +1,7 @@
 # Optyka
 
 ## Wstęp
-aplikacja została stworzona na potrzeby konkursu „Motorola Science Cup” przez drużynę if matinf==True: plaze=0. 
+Aplikacja została stworzona na potrzeby konkursu „Motorola Science Cup” przez drużynę: "if matinf==True: plaze=0".
 Nasza aplikacja służy do przeprowadzania prostych symulacyj optycznych odwzorowując zachowania światła w prawdziwym życiu. 
 
 
@@ -37,8 +37,8 @@ długości
 postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%) oraz współczynnik załamania 
 ![title](Readme/Przechwytywanie5.PNG)
 ## Zespół
-Jan świsłowski - kapitan zespołu  
-Oleg ramanchyk  
+Jan Świsłowski - kapitan zespołu  
+Oleg Ramanchyk  
 Krystian Wieszniewski  
 Maks Szulc   
 Agata Richter  
