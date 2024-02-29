@@ -23,7 +23,7 @@ W celu dodania obiektu należy wybrać jego ikonę dostosować parametry obiektu
 
 **Laser**: posiada jeden suwak który służy do regulacji ilości snopów światła (od 1 do 10)  
 ![title](Readme/lazer.PNG)
-**Żródło światła**: posiada  
+**Żródło światła**: posiada jeden suwak  który zmienia grubość snopu światła oraz kolorowy pasek który zmienia zakres fal światła
 ![title](Readme/ZS.PNG)
 **Zwierciadło** posiada suwak służący do regulacji jego
 długości  
@@ -33,7 +33,7 @@ długości
 ![title](Readme/Przechwytywanie.PNG)
 **Soczewka** posiada 4 suwaki - pierwszy po lewej służy do regulacji szerokości soczewki,pierwszy od góry odpowiada za współczynnik odbicia (0% - 100%), drugi od góry zmienia przepuszczalność (0% - 100%) i na końcu trzeci od góry regulujący współczynnik załamania, klawiszami wsad można 
 ![title](Readme/Przechwytywanie6.PNG)
-### edycja pryzmatu i soczewki w czasie rzeczywistym
+### Edycja pryzmatu i soczewki w czasie rzeczywistym
 postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez kliknięcie prawym przyciskiem myszy na dany obiekt. Edytowalne parametry to: współczynnik odbicia (0% - 100%), przepuszczalność (0% - 100%) oraz współczynnik załamania 
 ![title](Readme/Przechwytywanie5.PNG)
 ## Zespół
