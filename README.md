@@ -48,6 +48,9 @@ Postawiony już w symulacji **pryzmat** i **soczewkę** można edytować poprzez
 
 ![title](Readme/Przechwytywanie5.PNG)
 
+### filmik na youtube prezentujący działanie programu
+https://youtu.be/xnDc_m12VfE
+
 ## Zespół
 Jan Świsłowski - kapitan zespołu  
 Oleg Ramanchyk  
@@ -58,6 +61,8 @@ Agata Richter
 ## Licencja i prawa autorskie
 - wszystkie grafiki wykonaliśmy sami
 - czcionki pobarliśmy ze stron zezwalających na użytkowanie komercyjne ich czcionek za darmo
+
+## część plików z naszego projektu wyświetla się jako niebezpieczne, ale gwarantujemy ze nie jest to żaden wirus, prosimy o zaufanie i przepraszamy za utrudnienia
 
 
 
